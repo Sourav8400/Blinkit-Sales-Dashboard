@@ -59,5 +59,14 @@ GROUP BY Outlet_Size;
 SELECT Item_Fat_Content, COUNT(*) AS total_items
 FROM blinkit_data
 GROUP BY Item_Fat_Content;
+```
 
-<img width="1127" height="674" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/5b269f75-b0d8-4aa1-a9f8-6b4ee09876cd" />
+## 6. Power BI Dashboard Insights
+- Sales Performance: Achieved total revenue exceeding $1.2M across all outlets
+- Product Analysis: High contribution from categories such as Fruits, Snacks, and Household goods
+- Customer Preference: Regular fat products demonstrated higher sales compared to low-fat alternatives
+- Geographic Insights: Tier 3 locations contributed significantly to overall revenue
+- Operational Efficiency: Medium-sized outlets outperformed other outlet categories
+
+## 7. Power BI Dashboard Preview
+<img width="1127" height="674" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/7b3f7cf2-16a6-4549-b556-c109317ba329" />
