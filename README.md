@@ -69,4 +69,7 @@ GROUP BY Item_Fat_Content;
 - Operational Efficiency: Medium-sized outlets outperformed other outlet categories
 
 ## 7. Power BI Dashboard Preview
+<img width="1256" height="729" alt="Home Page" src="https://github.com/user-attachments/assets/4b49c12e-9f19-4159-9694-3f5f41b35b81" />
 <img width="1127" height="674" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/7b3f7cf2-16a6-4549-b556-c109317ba329" />
+<img width="1108" height="665" alt="Table Data" src="https://github.com/user-attachments/assets/0a7b7294-efb5-416d-8417-f9af777a4bb9" />
+
