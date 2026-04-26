@@ -4,7 +4,7 @@
 ## 📌 Recommended Structure and Order  
 
 ## 1. Project Overview  
-This project delivers an end-to-end analytical assessment of retail sales data from Blinkit, with a focus on uncovering actionable insights related to product performance, outlet efficiency, and consumer purchasing behavior.
+This project delivers an end-to-end analytical assessment of retail sales data from [Blinkit](https://blinkit.com), with a focus on uncovering actionable insights related to product performance, outlet efficiency, and consumer purchasing behavior.
 
 The objective is to leverage data cleaning techniques, SQL-based analytical querying, and advanced Power BI visualizations to support strategic, data-driven decision-making in the quick-commerce ecosystem.  
 
